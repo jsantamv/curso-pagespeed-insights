@@ -5,7 +5,7 @@ const menu = document.querySelector('.menu');
 const burgerButton = document.querySelector('#burger-menu');
 // console.log(burgerButton);
 
-
+    
 ipad.addListener(validation)
 
 function validation(event) {
